@@ -17,3 +17,14 @@ label {
     margin-bottom: 15px;
     display: block;
 }
+
+table {
+    border-collapse: collapse;
+}
+
+td,
+th {
+    padding: 10px 20px;
+    border: 2px solid black;
+
+}
